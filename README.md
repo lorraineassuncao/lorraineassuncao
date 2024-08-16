@@ -6,7 +6,7 @@ Hello, my name is Lorraine. I am a Computer Science student at Centro Universit√
 
 <!-- Skills Section -->
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js)](https://skillicons.dev)
 
 <!-- Connect Section -->
 ## Connect with me!
