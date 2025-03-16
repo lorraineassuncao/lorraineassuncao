@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&random=false&width=435&height=40&lines=Welcome+to+my+codes.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans&weight=600&size=34&pause=1000&color=1f39a7&random=false&width=435&height=50&lines=Hi,+welcome+to+my+codes!+)](https://git.io/typing-svg)
 <!-- About Section -->
 ## ⌕ About me
 Hello, my name is Lorraine. I am a Computer Science student at Centro Universitário UNA, currently focused on enhancing my backend programming skills. Follow me to stay updated on my future projects.
